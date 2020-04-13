@@ -1,0 +1,25 @@
+Company,Symbol
+State Bank of India,SBIN
+Cipla,CIPLA
+Muthoot Finance Ltd,MUTHOOTFIN
+Manappuram Finance Ltd,MANAPPURAM
+Punjab National bank,PNB
+Bank of Baroda Ltd,BANKBARODA
+Union Bank of India,UNIONBANK
+Yes Bank Limited,YESBANK
+Aurobindo Pharma Ltd,AUROPHARMA
+Tech Mahindra Ltd,TECHM
+Alphabet Inc Class A,GOOGL
+Facebook, Inc. Common Stock,FB
+Apple Inc.,AAPL
+Sbi Life Insurance Company Ltd,SBILIFE
+HDFC Bank Limited,HDFCBANK
+Sun Pharmaceutical Industries Limited,SUNPHARMA
+Amazon.com, Inc.,AMZN
+Halliburton Company,HAL
+Bharat Heavy Electricals Limited,BHEL
+IBM Common Stock,IBM
+Cisco Systems, Inc.,CSCO
+HP Inc,HPQ
+Hindustan Petroleum Corporation Limited,HINDPETRO
+Microsoft Corporation,MSFT
