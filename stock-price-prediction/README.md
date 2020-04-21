@@ -49,6 +49,12 @@ echo "export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH" >> ~/.bashrc
 source .bashrc
 ```
 
+## Notebooks
+
+### Predicting Stock Direction
+
+Predicting wheather the price of the stock will be more or less than the previous day's closing price using Logistic Regression
+
 ## Models
 when deciding which model is best, acf plot gives information about MA part, and pacf(partial autocorrelation function) gives info about AR part.
 
